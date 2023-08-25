@@ -1,5 +1,5 @@
 """
-Creates the graph Class and defines different methods to compute centrality.
+Creates the Graph class and defines different methods to compute centrality.
 """
 
 import numpy as np
